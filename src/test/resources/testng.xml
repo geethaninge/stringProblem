@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="StringProblemTestSuite">
+    <test verbose="5" name="StringTest" parallel="true">
+       <classes>
+           <class name="com.string.test.StringProblemTest"/>
+       </classes>
+    </test>
+</suite>
